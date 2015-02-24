@@ -40,7 +40,7 @@ p {
 	margin-bottom: 12px; 
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
-	font-size: 14px; 
+	font-size: 18px; 
 	line-height: 24px;
 	color: #384452; 
 	margin-top: 10px; 
@@ -290,11 +290,11 @@ a:focus {
 #twrap {
 	background: url(../img/t-back.jpg) no-repeat center top;
 	margin-top: 0px;
-	padding-top:60px;
+	padding-top:40px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 450px;
+	min-height: 250px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
