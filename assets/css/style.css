@@ -46,6 +46,11 @@ p {
 	margin-top: 10px; 
 }
 
+em {
+	color: #01b2fe;
+	font-size: 22px; 
+}
+
 img {
 	height: auto;
 	max-width: 100%;
