@@ -28,6 +28,7 @@
     <![endif]-->
     
     <script src="assets/js/modernizr.js"></script>
+    <script src="//www.java.com/js/deployJava.js"></script>
   </head>
 
   <body>
@@ -91,6 +92,22 @@
 	 		<div class="col-lg-6">
         <img class="img-responsive" src="assets/img/project/snake.png" alt="">
 	 		</div>
+
+      <div class="col-lg-6">
+        <Applet Code="Board.class">
+        </Applet>
+        <script>
+    var attributes = {codebase: '',
+                      code: 'Board.class',
+                      archive: 'Snake.jar',
+                      width: '300', 
+                      height: '300'};
+    var parameters = {java_arguments: '-Xmx256m'}; // customize per your needs
+    var version = '1.5'; // JDK version
+    deployJava.runApplet(attributes, parameters, version);
+</script>
+      </div>
+
 	 	</div><! --/row -->
 	 </div><! --/container -->
 
