@@ -28,7 +28,6 @@
     <![endif]-->
     
     <script src="assets/js/modernizr.js"></script>
-    <script src="//www.java.com/js/deployJava.js"></script>
   </head>
 
   <body>
@@ -94,19 +93,8 @@
 	 		</div>
 
       <div class="col-lg-6">
-        <Applet Code="assets/snake/Board.class">
-        </Applet>
-        
-        <script>
-    var attributes = {codebase: '',
-                      code: 'assets/snake/Board.class',
-                      archive: 'assets/snake/Snake.jar',
-                      width: '300', 
-                      height: '300'};
-    var parameters = {java_arguments: '-Xmx256m'}; // customize per your needs
-    var version = '1.5'; // JDK version
-    deployJava.runApplet(attributes, parameters, version);
-</script>
+        <applet Code=assets/snake/Board.java Width="300" Height="300">
+        </applet>
       </div>
 
 	 	</div><! --/row -->
