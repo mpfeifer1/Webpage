@@ -368,11 +368,10 @@ a:focus {
 #footerwrap i {
 	font-size: 30px;
 	color: #bfc9d3;
-	padding-right: 25px;
 }
 
 #footerwrap i:hover {
-	color: #00b3fe
+	color: #00b3fe;
 }
 
 /*	################################################################
