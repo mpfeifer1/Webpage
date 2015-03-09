@@ -99,8 +99,6 @@
 
     <div class="col-md-3 col-sm-4 col-xs-6"><img id="gwrap" class="img-responsive" src="assets/img/certificate/sdsmt.jpg" /></div>
 
-    <div class="col-md-3 col-sm-4 col-xs-6"><img id="gwrap" class="img-responsive" src="assets/img/certificate/sms.jpg" /></div>
-
     <div class="col-md-3 col-sm-4 col-xs-6"><img id="gwrap" class="img-responsive" src="assets/img/certificate/roboticsfun.jpg" /></div>
 
     <div class="col-md-3 col-sm-4 col-xs-6"><img id="gwrap" class="img-responsive" src="assets/img/certificate/solo.jpg" /></div>
@@ -110,6 +108,8 @@
     <div class="col-md-3 col-sm-4 col-xs-6"><img id="gwrap" class="img-responsive" src="assets/img/certificate/speech110.jpg" /></div>
     
     <div class="col-md-3 col-sm-4 col-xs-6"><img id="gwrap" class="img-responsive" src="assets/img/certificate/nhs.jpg" /></div>
+
+    <div class="col-md-3 col-sm-4 col-xs-6"><img id="gwrap" class="img-responsive" src="assets/img/certificate/sms.jpg" /></div>
 
     <div class="col-md-3 col-sm-4 col-xs-6"><img id="gwrap" class="img-responsive" src="assets/img/certificate/chili.jpg" /></div>
   </div>
