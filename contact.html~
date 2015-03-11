@@ -100,7 +100,7 @@
 	 			<h4>Send me a message!</h4>
 	 			<div class="hline"></div>
 		 			<p>Or at least type in random stuff and hit submit. Either way is fine.</br>This is actually broken right now, sorry, it's on the top of my list though</p>
-<form action="//formspree.io/mikepf97@gmail.com">
+<form action="http://formspree.io/mikepf97@gmail.com" method="POST">
   <input type="email" name="_replyto">
   <textarea name="body"></textarea>
   <input type="submit" value="Send">
