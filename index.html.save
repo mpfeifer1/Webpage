@@ -524,8 +524,8 @@
 
 				<ul class="list-inline">
 					<li>Year: 09, 10, 11, 12, 13, 14, 15</li>
-					<li>Program: Self Guided</li>
-					<li>Category: Problem Solving</li>
+					<li>Program: Open Source</li>
+					<li>Category: Programming</li>
 				</ul>
 				<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
 			</div>
@@ -594,13 +594,9 @@
                             <!-- Project Details Go Here -->
                             <h2>Project Euler</h2>
                             <img class="img-responsive img-centered" src="assets/img/project/euler.png" alt="">
-                            <p>Project Euler is a large collection of <em>programming challenges</em>, generally involving advanced math concepts. These programs can be completed in any language, so I decided to go with the language I'm learning in college - <em>C++</em>. You can click the link below to see the source code for every project I've worked on - but be warned - one or two are probably <em>in the works</em>, and aren't complete!</p>
-                            <p>I'd highly recommend you <em>try some</em> of these problems if you haven't already - they're a lot of fun, and you can learn a lot about math theories and brilliant mathematicians.</p>
+                            <p>Project Euler is a large collection of programming questions, generally involving advanced math concepts. These programs can be completed in any language, so I decided to go with the language I'm learning in college - C++. If you want to view my progress, visit <em><a href="https://projecteuler.net/progress=Fifey01">projecteuler.net</a></em> (sorry if you need an account). You can also click the link below to see the source code for every project I've worked on - but be warned - one or two are probably in the works, and aren't complete!</p>
+                            <p>I'd highly recommend you try some of these problems if you haven't already - they're a lot of fun, and you can learn a lot about math theories and brilliant mathematicians.</p>
                             
-                            <a href = "https://projecteuler.net/about">
-                                <img src="https://projecteuler.net/profile/Fifey01.png" style="border-radius: 6px;">
-                            </a>
-
                             <p><br/><a
                                 href="https://gitlab.com/mpfeifer1/ProjectEuler/tree/master"
                                 class="btn btn-theme btn-lg"
